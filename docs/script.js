@@ -1,1 +1,1 @@
-location.replace("https://www.w3schools.com")
+location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
